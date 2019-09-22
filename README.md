@@ -1,7 +1,7 @@
 # mediafire-dl
 
 ![alt text](https://img.shields.io/badge/Coded-xNot_Found-blue.svg)
-![alt text](https://img.shields.io/badge/Size-160.4KB-yellow.svg)
+![alt text](https://img.shields.io/badge/Size-59KB-yellow.svg)
 ![alt text](https://img.shields.io/badge/Python-2.7-green.svg)
 
 # Sample Image
