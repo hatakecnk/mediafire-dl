@@ -2,7 +2,7 @@
 
 ![alt text](https://img.shields.io/badge/Coded-xNot_Found-blue.svg)
 ![alt text](https://img.shields.io/badge/Size-59KB-yellow.svg)
-![alt text](https://img.shields.io/badge/Python-2.7-green.svg)
+![alt text](https://img.shields.io/badge/Python-3.7-green.svg)
 
 # Sample Image
 ![alt text](https://raw.githubusercontent.com/hatakecnk/hatakecnk.github.io/master/IMG_20190922_080300.jpg)
